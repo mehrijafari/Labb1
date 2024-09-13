@@ -1,0 +1,14 @@
+C:\Users\mehri\source\repos\labb1\labb1\bin\Debug\net8.0\labb1.exe
+C:\Users\mehri\source\repos\labb1\labb1\bin\Debug\net8.0\labb1.deps.json
+C:\Users\mehri\source\repos\labb1\labb1\bin\Debug\net8.0\labb1.runtimeconfig.json
+C:\Users\mehri\source\repos\labb1\labb1\bin\Debug\net8.0\labb1.dll
+C:\Users\mehri\source\repos\labb1\labb1\bin\Debug\net8.0\labb1.pdb
+C:\Users\mehri\source\repos\labb1\labb1\obj\Debug\net8.0\labb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehri\source\repos\labb1\labb1\obj\Debug\net8.0\labb1.AssemblyInfoInputs.cache
+C:\Users\mehri\source\repos\labb1\labb1\obj\Debug\net8.0\labb1.AssemblyInfo.cs
+C:\Users\mehri\source\repos\labb1\labb1\obj\Debug\net8.0\labb1.csproj.CoreCompileInputs.cache
+C:\Users\mehri\source\repos\labb1\labb1\obj\Debug\net8.0\labb1.dll
+C:\Users\mehri\source\repos\labb1\labb1\obj\Debug\net8.0\refint\labb1.dll
+C:\Users\mehri\source\repos\labb1\labb1\obj\Debug\net8.0\labb1.pdb
+C:\Users\mehri\source\repos\labb1\labb1\obj\Debug\net8.0\labb1.genruntimeconfig.cache
+C:\Users\mehri\source\repos\labb1\labb1\obj\Debug\net8.0\ref\labb1.dll
